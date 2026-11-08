@@ -3,3 +3,6 @@ mpi_arvore
 mpi_balanceado
 .DS_Store
 *.o
+
+# Logs dos experimentos
+*.log
